@@ -1,0 +1,20 @@
+{
+  "name": "4df-advanture-game",
+  "version": "1.0.1",
+  "description": "This is an advanture game with Typescript and Node.js",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nazia",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.3.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
